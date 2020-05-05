@@ -34,7 +34,7 @@
 
 
 
-(defconstant list (list 1 1 1 1 1 0 2 3 3 4 4 4 4 1 0 19 19 3 1 3 3 33))
+(defconstant lt (list 1 1 1 1 1 0 2 3 3 4 4 4 4 1 0 19 19 3 1 3 3 33))
 
-(compress list) 
-(decompress (compress list)) 
+(compress lt) 
+(decompress (compress lt)) 
